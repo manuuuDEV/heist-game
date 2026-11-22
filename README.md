@@ -1,10 +1,12 @@
 # Phantom Heist
 
-A complete heist game: reach the vault at the top right without being seen by the museum's guards. Plays in a desktop browser from its own files, offline.
+Build a complete, original heist game: reach the vault at the top right of the museum without being seen by the guards. Plays in a desktop browser from its own files, offline.
 
-[![make.fun: Best Heist Game](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounties/best-heist-game-20261122-0559)
-[![make.fun: leaderboard rank](manuuuDEV/heist-game/rank.svg)](https://make.fun/bounties/best-heist-game-20261122-0559)
-[![make.fun: reward](manuuuDEV/heist-game/reward.svg)](https://make.fun/bounties/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badit-game-20261122-0559/manuuuDEV/heist-game/rank.svg)](https://make.fun/bounties/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badit-game-20261122-0559/manuuuDEV/heist-game/reward.svg)](https://make.fun/bounties/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounties/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badit-game-20261122-0559/manuuuDEV/heist-game/rank.svg)](https://make.fun/bounties/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badit-game-20261122-0559/manuuuDEV/heist-game/reward.svg)](https://make.fun/bounties/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 ## The job
 
@@ -24,7 +26,7 @@ The repository is the entry for the "Make the best heist game" bounty. It holds:
 - `main.ts` — the packaging program: copies `game/` and `screenshots/` to `/output` and writes `/output/dossier.json` with make.fun's `buildDossier` (`vendor/makefun-game.ts`).
 - `vendor/makefun-game.ts` — the kit's copy of the scorer, unchanged.
 - `game/index.html`, `game/game.js` — the game.
-- `screenshots/` — 3 or 4 real renders of the game: the title screen, in play, the vault open, and the alarm.
+- `screenshots/` — 4 real renders of the game: the title screen, in play, the vault open, and the alarm.
 - `LICENSE` — MIT, at the root.
 
-Entered with referral code **07px145t** on [make.fun](https://make.fun).
+Entered with [make.fun](https://make.fun).
